@@ -7,7 +7,7 @@ use App\Logger;
 $logger = new Logger();
 
 
-$logger->info('This is an info message.');
+$logger->info('info message.');
 
 
-$logger->error('This is an error message.');
+$logger->error('error message.');
